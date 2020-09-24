@@ -47,3 +47,9 @@ ebook 은?
 
 js, jsx 
 xls, xlsx   x stands for extension, extends
+
+클릭 -> event 
+이벤트 기반 프로그래밍
+
+{} js 에서의 object notation..  자바스크립트 객체 표기법 JSON
+[] array [{},{},{}]
